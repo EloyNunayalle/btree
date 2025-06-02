@@ -1,8 +1,8 @@
 # Integrantes: 
-### 1- ** Marco Antonio Madrid Gonzales**
-### 2- ** Luis Anthony Romero Padilla**
-### 3- ** Llorent Eloy Nunayalle Brañes**
-### 4- ** Renato Flores Pascual**
+### 1- **Marco Antonio Madrid Gonzales**
+### 2- **Luis Anthony Romero Padilla**
+### 3- **Llorent Eloy Nunayalle Brañes**
+### 4- **Renato Flores Pascual**
 
 
 
