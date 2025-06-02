@@ -23,7 +23,13 @@ struct Node {
   }
 
   void killSelf() {
-    // TODO
+      if (!leaf) {
+          for (int i = 0; i <= count; ++i)
+              if (children[i]) children[i]->killSelf();
+      }
+      delete[] keys;
+      delete[] children;
+      delete this;
   }
 };
 
